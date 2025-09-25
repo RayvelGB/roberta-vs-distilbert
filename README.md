@@ -23,5 +23,8 @@ To evaluate and compare the performance, efficiency, and effectiveness of RoBERT
 - Scikit-learn
 - Google Colab (initial development)
 
+📝 **The Paper**
+https://drive.google.com/file/d/13EQx6XasopgxFhJDB3ZRS9HY8xThDhCc/view?usp=sharing
+
 
 > 📌 Note: These files were originally developed and run in **Google Colab**, and later exported to this repository for sharing and reference.
